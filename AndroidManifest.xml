@@ -16,6 +16,9 @@
   limitations under the License.
 -->
 
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:supportsSwitchingToNextInputMethod="true" />
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="io.appium.android.ime"
     android:versionCode="1"
